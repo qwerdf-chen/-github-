@@ -1,0 +1,8 @@
+#忽略test文件夹下所有文件
+!test/
+#忽略index.css文件
+index.css
+#不忽略index.css文件
+!index.css
+#忽略test下所有.html文件
+test/**/*.html
